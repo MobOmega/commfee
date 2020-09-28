@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/commfee/static/css/main.62fe86aa.chunk.css",
+    "main.js": "/commfee/static/js/main.626fd4dd.chunk.js",
+    "main.js.map": "/commfee/static/js/main.626fd4dd.chunk.js.map",
+    "runtime-main.js": "/commfee/static/js/runtime-main.468e7e91.js",
+    "runtime-main.js.map": "/commfee/static/js/runtime-main.468e7e91.js.map",
+    "static/js/2.b7f4f679.chunk.js": "/commfee/static/js/2.b7f4f679.chunk.js",
+    "static/js/2.b7f4f679.chunk.js.map": "/commfee/static/js/2.b7f4f679.chunk.js.map",
+    "index.html": "/commfee/index.html",
+    "precache-manifest.f78ead72d4d7436c83cd563746ff1313.js": "/commfee/precache-manifest.f78ead72d4d7436c83cd563746ff1313.js",
+    "service-worker.js": "/commfee/service-worker.js",
+    "static/css/main.62fe86aa.chunk.css.map": "/commfee/static/css/main.62fe86aa.chunk.css.map",
+    "static/js/2.b7f4f679.chunk.js.LICENSE.txt": "/commfee/static/js/2.b7f4f679.chunk.js.LICENSE.txt",
+    "static/media/undraw-join.svg": "/commfee/static/media/undraw-join.3eb7679e.svg",
+    "static/media/undraw-login.svg": "/commfee/static/media/undraw-login.5911f723.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468e7e91.js",
+    "static/js/2.b7f4f679.chunk.js",
+    "static/css/main.62fe86aa.chunk.css",
+    "static/js/main.626fd4dd.chunk.js"
+  ]
+}
